@@ -1,3 +1,13 @@
+﻿# Hello World !
+
+I'm Christopher alias Christ0u, a young french developer enthusiast :\)
+
+- 👨‍🎓 Student
+- 💬 French, English, Deutsch (just a bit 🤏)
+- 📍 Strasbourg, France
+- 🔗 [Linkedin](https://www.linkedin.com/in/christophergerardpro/)
+
+
 <a href="https://github-readme-stats.vercel.app/api?username=Christ0u&show_icons=true&theme=transparent&custom_title=My%20GitHub%20Stats&border_radius=10">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Christ0u&theme=transparent&border_radius=10&show_icons=true&custom_title=My%20GitHub%20Stats"/>
 </a>
