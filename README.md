@@ -1,5 +1,9 @@
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Christ0u&show_icons=true&theme=transparent&custom_title=My%20GitHub%20Stats&border_radius=10&include_all_commits=true"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ0u&langs_count=10&theme=transparent&border_radius=10&layout=compact"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Christ0u&show_icons=true&theme=transparent&custom_title=My%20GitHub%20Stats&border_radius=10">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Christ0u&theme=transparent&border_radius=10&show_icons=true&custom_title=My%20GitHub%20Stats"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ0u&langs_count=10&theme=transparent&border_radius=10&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ0u&theme=transparent&border_radius=10&langs_count=10&layout=compact"/>
+</a>
 
 ---
 
