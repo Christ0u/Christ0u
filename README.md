@@ -3,7 +3,7 @@
 I'm Christopher alias Christ0u, a young french developer enthusiast :\)
 
 - 👨‍🎓 Student
-- 💬 French, English, Deutsch (just a bit 🤏)
+- 💬 French, English, German (just a bit 🤏)
 - 📍 Strasbourg, France
 - 🔗 [Linkedin](https://www.linkedin.com/in/christophergerardpro/)
 
